@@ -6,7 +6,6 @@ class Hash
     key_arr = []
     self.each{
       |key, value|
-      #binding.pry
 
       arguments.each{
         |arg|
